@@ -1,1 +1,4 @@
 discord.py==0.16.12
+random.py==0.16.12
+time.py==0.16.2
+datetime.py==0.16.2
